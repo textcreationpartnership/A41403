@@ -109,25 +109,25 @@
             <label>pfs</label>Batch review (QC) and XML conversion</change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="unk">
+   <text xml:lang="eng">
       <body>
          <div type="ballad">
-            <pb facs="tcp:32017:01"/>
+            <pb facs="tcp:32017:1"/>
             <!-- PDF PAGE 14 -->
             <head>THE Good Fellows Frolick, Or, Kent Street Clubb.</head>
+            <argument>
             <lg>
                <l>Good people all come mind my merry tale,</l>
                <l>And you ſhall hear the vertue of good Ale,</l>
-               <l>Whoſe charming power ſome mens humors</l>
-               <l>hitts,</l>
-            </lg>
-            <lg>
+               <l>Whoſe charming power ſome mens humors hitts,</l>
                <l>It robs them of their money &amp; their witts:</l>
                <l>For he in time will ſurely money lack</l>
                <l>that minds his belly better than his back.</l>
             </lg>
-            <p>
-               <hi>Tune of,</hi> Hey boys up go we, Seamans mournful bride, or the fair one let me in.</p>
+            </argument>
+            <opener>
+               <hi>Tune of,</hi> Hey boys up go we, Seamans mournful bride, or the fair one let me in.
+            </opener>
             <figure/>
             <lg>
                <l>Here is a crew of jovial Blades</l>
@@ -268,8 +268,12 @@
                   <hi>the Ale that was ſo brown.</hi>
                </l>
             </lg>
-            <p>Printed for J, Coniers in Duck-Lane,</p>
          </div>
       </body>
+      <back>
+            <div type="colophon">
+            <p>Printed for J, Coniers in Duck-Lane,</p>
+         </div>
+      </back>
    </text>
 </TEI>
